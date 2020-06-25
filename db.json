@@ -1,59 +1,272 @@
 {
-  "bpfoodcourt": {
-    "version": "3",
-    "donwloadurl": "https://drive.google.com/open?id=1S9yTRLmE1MfNZdBOOFUaWEYyERYcFmnV"
-  },
-  "dummytry":   {
-    "success": true,
-    "code": 200,
-    "message": "Action done successfully",
-    "count": 2,
-    "results": [
-      {
-        "item_id": "item-6cf81d5cedb5416cb750dfb4ea14df48",
-        "item_number": "CAL-20200602-00001",
-        "metadata": {
-          "title": "Internal Meeting June",
-          "event_from_datetime": "02/06/2020 12:00:00 AM",
-          "event_to_datetime": "02/06/2020 11:59:59 PM"
-        }
-      },
-      {
-        "item_id": "item-6cf81d5cedb5416cb750dfb4ea14df48",
-        "item_number": "CAL-20200602-00001",
-        "metadata": {
-          "title": "Internal Meeting June",
-          "event_from_datetime": "02/06/2020 12:00:00 AM",
-          "event_to_datetime": "02/06/2020 11:59:59 PM"
-        }
-      },
-      {
-        "item_id": "item-19420123cc2945fdb4709bd9ddf79218",
-        "item_number": "CAL-20200602-00002",
-        "metadata": {
-          "title": "Receive Application Form",
-          "event_from_datetime": "17/06/2020 12:00:00 AM",
-          "event_to_datetime": "18/06/2020 11:59:59 PM"
-        }
-      },
-      {
-        "item_id": "item-19420123cc2945fdb4709bd9ddf79218",
-        "item_number": "CAL-20200602-00002",
-        "metadata": {
-          "title": "Receive Application Form",
-          "event_from_datetime": "17/06/2020 12:00:00 AM",
-          "event_to_datetime": "18/06/2020 11:59:59 PM"
-        }
-      },
-      {
-        "item_id": "item-19420123cc2945fdb4709bd9ddf79218",
-        "item_number": "CAL-20200602-00002",
-        "metadata": {
-          "title": "Receive Application Form",
-          "event_from_datetime": "17/06/2020 12:00:00 AM",
-          "event_to_datetime": "18/06/2020 11:59:59 PM"
-        }
-      }
-    ]
-  }
+   "bpfoodcourt":{
+      "version":"3",
+      "donwloadurl":"https://drive.google.com/open?id=1S9yTRLmE1MfNZdBOOFUaWEYyERYcFmnV"
+   },
+   "dummytry":{
+      "success":true,
+      "data":[
+         {
+            "market_count":11,
+            "id":7,
+            "name":"Market Schroeder, Metz and Torphy",
+            "description":"Necessitatibus dolorem nihil inventore sed in est corporis sint. Est quo occaecati illum. Ratione reiciendis sed assumenda nesciunt minus.",
+            "address":"395 Stefan Field Suite 965Westland, NY 90647-0835",
+            "latitude":"52.518803907815",
+            "longitude":"13.407877689731",
+            "phone":"(589) 428-1103",
+            "mobile":"(342) 650-1700",
+            "information":"Repellat ut provident molestiae sequi illum non. Officiis quam hic ut assumenda enim et necessitatibus. Quam accusamus cupiditate ipsam corrupti quibusdam tenetur magnam.",
+            "admin_commission":36.48,
+            "delivery_fee":8.71,
+            "delivery_range":69.55,
+            "default_tax":25.62,
+            "closed":false,
+            "available_for_delivery":false,
+            "created_at":"2020-04-12 16:50:59",
+            "updated_at":"2020-04-15 14:09:32",
+            "custom_fields":[
+
+            ],
+            "has_media":true,
+            "rate":"3.0",
+            "media":[
+               {
+                  "id":14,
+                  "model_type":"App\\Models\\Market",
+                  "model_id":7,
+                  "collection_name":"image",
+                  "name":"markets (5)",
+                  "file_name":"markets-(5).jpg",
+                  "mime_type":"image/jpeg",
+                  "disk":"public",
+                  "size":250314,
+                  "manipulations":[
+
+                  ],
+                  "custom_properties":{
+                     "uuid":"547bf43e-85bb-459d-88c0-07701654df66",
+                     "generated_conversions":{
+                        "thumb":true,
+                        "icon":true
+                     }
+                  },
+                  "responsive_images":[
+
+                  ],
+                  "order_column":14,
+                  "created_at":"2020-04-15 14:09:32",
+                  "updated_at":"2020-04-15 14:09:32",
+                  "url":"https://markets.smartersvision.com/storage/app/public/14/markets-%285%29.jpg",
+                  "thumb":"https://markets.smartersvision.com/storage/app/public/14/conversions/markets-%285%29-thumb.jpg",
+                  "icon":"https://markets.smartersvision.com/storage/app/public/14/conversions/markets-%285%29-icon.jpg",
+                  "formated_size":"244.4 KB"
+               }
+            ]
+         },
+         {
+            "market_count":10,
+            "id":6,
+            "name":"Furniture Brakus Inc",
+            "description":"Quos fuga autem tenetur. Dignissimos deleniti et laudantium laudantium. Aut veniam quis fuga illum quam exercitationem veniam sunt.",
+            "address":"9469 Roslyn Drive Apt. 119Berryberg, WV 70819",
+            "latitude":"40.263225079024",
+            "longitude":"-3.712365627789",
+            "phone":"(272) 925-1675",
+            "mobile":"893-382-9663 x07822",
+            "information":"Nulla maiores ut dolorem quisquam sed aut. Ut quod earum quo et assumenda ut quaerat aut. In est laborum ipsa ipsum commodi non.",
+            "admin_commission":33.94,
+            "delivery_fee":5.93,
+            "delivery_range":61.05,
+            "default_tax":9.8,
+            "closed":false,
+            "available_for_delivery":true,
+            "created_at":"2020-04-12 16:50:59",
+            "updated_at":"2020-04-15 17:06:27",
+            "custom_fields":[
+
+            ],
+            "has_media":true,
+            "rate":"3.3",
+            "media":[
+               {
+                  "id":12,
+                  "model_type":"App\\Models\\Market",
+                  "model_id":6,
+                  "collection_name":"image",
+                  "name":"markets (17)",
+                  "file_name":"markets-(17).jpg",
+                  "mime_type":"image/jpeg",
+                  "disk":"public",
+                  "size":197114,
+                  "manipulations":[
+
+                  ],
+                  "custom_properties":{
+                     "uuid":"1c2c3e66-a931-4c4b-8fe8-8d226c2ac2de",
+                     "generated_conversions":{
+                        "thumb":true,
+                        "icon":true
+                     }
+                  },
+                  "responsive_images":[
+
+                  ],
+                  "order_column":12,
+                  "created_at":"2020-04-15 14:09:19",
+                  "updated_at":"2020-04-15 14:09:19",
+                  "url":"https://markets.smartersvision.com/storage/app/public/12/markets-%2817%29.jpg",
+                  "thumb":"https://markets.smartersvision.com/storage/app/public/12/conversions/markets-%2817%29-thumb.jpg",
+                  "icon":"https://markets.smartersvision.com/storage/app/public/12/conversions/markets-%2817%29-icon.jpg",
+                  "formated_size":"192.5 KB"
+               }
+            ]
+         },
+         {
+            "market_count":9,
+            "id":3,
+            "name":"Grocery Marquardt LLC",
+            "description":"We cater to all your daily needs",
+            "address":"5692 Johns BrookPort Casandrabury, CA 52751-4379",
+            "latitude":"52.5185037815",
+            "longitude":"13.40876789731",
+            "phone":"1-831-919-4594 x9486",
+            "mobile":"363-942-7301 x0341",
+            "information":"Qui voluptatibus doloremque beatae tempora quia reiciendis. Nam et quas eos perspiciatis eos aut. Placeat fugiat vel in ut sed blanditiis laborum veniam.",
+            "admin_commission":45.23,
+            "delivery_fee":4.49,
+            "delivery_range":96.12,
+            "default_tax":8.06,
+            "closed":false,
+            "available_for_delivery":true,
+            "created_at":"2020-04-12 16:50:59",
+            "updated_at":"2020-06-20 14:53:55",
+            "custom_fields":[
+
+            ],
+            "has_media":false,
+            "rate":"5.5",
+            "media":[
+
+            ]
+         },
+         {
+            "market_count":7,
+            "id":2,
+            "name":"Grocery Towne LLC",
+            "description":"Minus in et iste ut iure sed. Inventore neque accusantium dolor praesentium commodi. Et nihil enim quod perferendis inventore minus ratione. Doloribus quam commodi perferendis quia amet.",
+            "address":"537 Batz ForgesGibsonburgh, DE 74012",
+            "latitude":"40.2634",
+            "longitude":"-3.712133",
+            "phone":"307.782.2121 x34984",
+            "mobile":"+1-352-363-0087",
+            "information":"Et officia aspernatur est et voluptas. Voluptatum rerum cum exercitationem aut non sit nulla. Asperiores amet reprehenderit est.",
+            "admin_commission":40.38,
+            "delivery_fee":1.04,
+            "delivery_range":99.95,
+            "default_tax":13.88,
+            "closed":false,
+            "available_for_delivery":false,
+            "created_at":"2020-04-12 16:50:58",
+            "updated_at":"2020-04-15 14:08:20",
+            "custom_fields":[
+
+            ],
+            "has_media":true,
+            "rate":"3.3",
+            "media":[
+               {
+                  "id":4,
+                  "model_type":"App\\Models\\Market",
+                  "model_id":2,
+                  "collection_name":"image",
+                  "name":"markets (6)",
+                  "file_name":"markets-(6).jpg",
+                  "mime_type":"image/jpeg",
+                  "disk":"public",
+                  "size":1261661,
+                  "manipulations":[
+
+                  ],
+                  "custom_properties":{
+                     "uuid":"1861f47e-3e7d-4ca1-9011-abcad0cac994",
+                     "generated_conversions":{
+                        "thumb":true,
+                        "icon":true
+                     }
+                  },
+                  "responsive_images":[
+
+                  ],
+                  "order_column":4,
+                  "created_at":"2020-04-15 14:08:20",
+                  "updated_at":"2020-04-15 14:08:20",
+                  "url":"https://markets.smartersvision.com/storage/app/public/4/markets-%286%29.jpg",
+                  "thumb":"https://markets.smartersvision.com/storage/app/public/4/conversions/markets-%286%29-thumb.jpg",
+                  "icon":"https://markets.smartersvision.com/storage/app/public/4/conversions/markets-%286%29-icon.jpg",
+                  "formated_size":"1.2 MB"
+               }
+            ]
+         },
+         {
+            "market_count":6,
+            "id":5,
+            "name":"Shop Gleichner and Sons",
+            "description":"Eveniet nobis optio et ut illo facilis fugiat. Omnis voluptatem eligendi quos ut quidem vero excepturi. Qui velit dolorem dolorum maiores.",
+            "address":"7414 Ward IslandNew Olaf, CO 18119",
+            "latitude":"52.518703907815",
+            "longitude":"13.409577689731",
+            "phone":"+1-882-206-0154",
+            "mobile":"(295) 475-9585 x55036",
+            "information":"Maxime ipsam consequuntur nam culpa. Corporis esse unde id fugit. Eaque aut ex est placeat harum consequatur quo.",
+            "admin_commission":34.85,
+            "delivery_fee":6.5,
+            "delivery_range":12.77,
+            "default_tax":5.8,
+            "closed":false,
+            "available_for_delivery":true,
+            "created_at":"2020-04-12 16:50:59",
+            "updated_at":"2020-04-15 17:06:45",
+            "custom_fields":[
+
+            ],
+            "has_media":true,
+            "rate":"5.0",
+            "media":[
+               {
+                  "id":10,
+                  "model_type":"App\\Models\\Market",
+                  "model_id":5,
+                  "collection_name":"image",
+                  "name":"markets (25)",
+                  "file_name":"markets-(25).jpg",
+                  "mime_type":"image/jpeg",
+                  "disk":"public",
+                  "size":703561,
+                  "manipulations":[
+
+                  ],
+                  "custom_properties":{
+                     "uuid":"f8bae2ce-8ba1-4492-b0b9-3957676a2dfb",
+                     "generated_conversions":{
+                        "thumb":true,
+                        "icon":true
+                     }
+                  },
+                  "responsive_images":[
+
+                  ],
+                  "order_column":10,
+                  "created_at":"2020-04-15 14:09:04",
+                  "updated_at":"2020-04-15 14:09:04",
+                  "url":"https://markets.smartersvision.com/storage/app/public/10/markets-%2825%29.jpg",
+                  "thumb":"https://markets.smartersvision.com/storage/app/public/10/conversions/markets-%2825%29-thumb.jpg",
+                  "icon":"https://markets.smartersvision.com/storage/app/public/10/conversions/markets-%2825%29-icon.jpg",
+                  "formated_size":"687.1 KB"
+               }
+            ]
+         }
+      ],
+      "message":"Markets retrieved successfully"
+   }
 }
