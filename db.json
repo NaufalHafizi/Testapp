@@ -9,13 +9,13 @@
          {
             "market_count":11,
             "id":7,
-            "name":"Market Schroeder, Metz and Torphy",
-            "description":"Necessitatibus dolorem nihil inventore sed in est corporis sint. Est quo occaecati illum. Ratione reiciendis sed assumenda nesciunt minus.",
-            "address":"395 Stefan Field Suite 965Westland, NY 90647-0835",
-            "latitude":"52.518803907815",
-            "longitude":"13.407877689731",
-            "phone":"(589) 428-1103",
-            "mobile":"(342) 650-1700",
+            "name":"Kerapu Bara",
+            "description":"Ikan Kerapu Bara merupakan ikan badan tebal dengan bonggol di bahagian kepala. Ia mempunyai warna merah kepada kuning bata-merah atau perang, kdang-kala dengan tompok perang, merah atau putih. Ia mampu membesar sehingga sepanjang 58 cm",
+            "address":"Persiaran Kayangan, 40100 Shah Alam, Selangor",
+            "latitude":"3.085647",
+            "longitude":"101.519034",
+            "phone":"(03) 428-1103",
+            "mobile":"(601) 650-1700",
             "information":"Repellat ut provident molestiae sequi illum non. Officiis quam hic ut assumenda enim et necessitatibus. Quam accusamus cupiditate ipsam corrupti quibusdam tenetur magnam.",
             "admin_commission":36.48,
             "delivery_fee":8.71,
@@ -57,9 +57,9 @@
                   "order_column":14,
                   "created_at":"2020-04-15 14:09:32",
                   "updated_at":"2020-04-15 14:09:32",
-                  "url":"https://markets.smartersvision.com/storage/app/public/14/markets-%285%29.jpg",
-                  "thumb":"https://markets.smartersvision.com/storage/app/public/14/conversions/markets-%285%29-thumb.jpg",
-                  "icon":"https://markets.smartersvision.com/storage/app/public/14/conversions/markets-%285%29-icon.jpg",
+                  "url":"https://drive.google.com/file/d/1exiXQbOU5H-lmkipO8uuEc8jNiK4Gf3A/view?usp=sharing",
+                  "thumb":"https://drive.google.com/file/d/1exiXQbOU5H-lmkipO8uuEc8jNiK4Gf3A/view?usp=sharing",
+                  "icon":"https://drive.google.com/file/d/1exiXQbOU5H-lmkipO8uuEc8jNiK4Gf3A/view?usp=sharing",
                   "formated_size":"244.4 KB"
                }
             ]
